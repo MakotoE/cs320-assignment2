@@ -1,0 +1,780 @@
+<svg width="3626.7000000000003" height="1035.1000000000001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><line x1="887.75" y1="7.0" x2="151.625" y2="31.0" style="stroke:black; stroke-width:1px;" />
+<line x1="151.625" y1="38.0" x2="151.625" y2="62.0" style="stroke:black; stroke-width:1px;" />
+<line x1="151.625" y1="69.0" x2="12.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="151.625" y1="69.0" x2="40.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="151.625" y1="69.0" x2="80.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="151.625" y1="69.0" x2="116.0" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="151.625" y1="69.0" x2="159.0" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="159.0" y1="100.0" x2="131.0" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="131.0" y1="131.0" x2="131.0" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="159.0" y1="100.0" x2="159.0" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="159.0" y1="100.0" x2="187.0" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="187.0" y1="131.0" x2="187.0" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="151.625" y1="69.0" x2="205.08333333333337" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="151.625" y1="69.0" x2="224.66666666666663" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="151.625" y1="69.0" x2="259.25" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="259.25" y1="100.0" x2="259.25" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="259.25" y1="131.0" x2="220.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="259.25" y1="131.0" x2="268.0" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="268.0" y1="162.0" x2="268.0" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="268.0" y1="193.0" x2="249.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="268.0" y1="193.0" x2="268.0" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="268.0" y1="193.0" x2="286.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="259.25" y1="131.0" x2="298.0" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="151.625" y1="69.0" x2="290.75" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="887.75" y1="7.0" x2="474.375" y2="31.0" style="stroke:black; stroke-width:1px;" />
+<line x1="474.375" y1="38.0" x2="474.375" y2="62.0" style="stroke:black; stroke-width:1px;" />
+<line x1="474.375" y1="69.0" x2="328.75" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="474.375" y1="69.0" x2="369.75" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="474.375" y1="69.0" x2="409.75" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="474.375" y1="69.0" x2="445.25" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="474.375" y1="69.0" x2="488.25" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="488.25" y1="100.0" x2="460.25" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="460.25" y1="131.0" x2="460.25" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="488.25" y1="100.0" x2="488.25" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="488.25" y1="100.0" x2="516.25" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="516.25" y1="131.0" x2="516.25" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="474.375" y1="69.0" x2="534.3333333333334" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="474.375" y1="69.0" x2="553.9166666666666" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="474.375" y1="69.0" x2="588.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="588.5" y1="100.0" x2="588.5" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="588.5" y1="131.0" x2="549.75" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="588.5" y1="131.0" x2="597.25" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="597.25" y1="162.0" x2="597.25" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="597.25" y1="193.0" x2="581.25" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="597.25" y1="193.0" x2="597.25" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="597.25" y1="193.0" x2="613.25" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="588.5" y1="131.0" x2="627.25" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="474.375" y1="69.0" x2="620.0" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="887.75" y1="7.0" x2="801.375" y2="31.0" style="stroke:black; stroke-width:1px;" />
+<line x1="801.375" y1="38.0" x2="801.375" y2="62.0" style="stroke:black; stroke-width:1px;" />
+<line x1="801.375" y1="69.0" x2="656.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="801.375" y1="69.0" x2="696.0" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="801.375" y1="69.0" x2="736.0" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="801.375" y1="69.0" x2="771.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="801.375" y1="69.0" x2="814.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="814.5" y1="100.0" x2="786.5" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="786.5" y1="131.0" x2="786.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="814.5" y1="100.0" x2="814.5" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="814.5" y1="100.0" x2="842.5" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="842.5" y1="131.0" x2="842.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="801.375" y1="69.0" x2="860.5833333333334" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="801.375" y1="69.0" x2="880.1666666666666" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="801.375" y1="69.0" x2="914.75" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="914.75" y1="100.0" x2="914.75" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="914.75" y1="131.0" x2="876.0" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="914.75" y1="131.0" x2="923.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="923.5" y1="162.0" x2="923.5" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="923.5" y1="193.0" x2="906.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="923.5" y1="193.0" x2="923.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="923.5" y1="193.0" x2="940.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="914.75" y1="131.0" x2="953.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="801.375" y1="69.0" x2="946.25" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="887.75" y1="7.0" x2="1119.375" y2="31.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1119.375" y1="38.0" x2="1119.375" y2="62.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1119.375" y1="69.0" x2="977.25" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1119.375" y1="69.0" x2="1011.25" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1119.375" y1="69.0" x2="1051.25" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1119.375" y1="69.0" x2="1086.75" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1119.375" y1="69.0" x2="1129.75" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1129.75" y1="100.0" x2="1101.75" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1101.75" y1="131.0" x2="1101.75" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1129.75" y1="100.0" x2="1129.75" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1129.75" y1="100.0" x2="1157.75" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1157.75" y1="131.0" x2="1157.75" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1119.375" y1="69.0" x2="1175.8333333333335" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1119.375" y1="69.0" x2="1195.4166666666665" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1119.375" y1="69.0" x2="1230.0" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1230.0" y1="100.0" x2="1230.0" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1230.0" y1="131.0" x2="1191.25" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1230.0" y1="131.0" x2="1238.75" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1238.75" y1="162.0" x2="1238.75" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1238.75" y1="193.0" x2="1222.75" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1238.75" y1="193.0" x2="1238.75" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1238.75" y1="193.0" x2="1254.75" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1230.0" y1="131.0" x2="1268.75" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1119.375" y1="69.0" x2="1261.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="887.75" y1="7.0" x2="1623.875" y2="31.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="38.0" x2="1623.875" y2="62.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="69.0" x2="1306.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="69.0" x2="1354.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="69.0" x2="1394.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="69.0" x2="1430.0" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="69.0" x2="1473.0" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1473.0" y1="100.0" x2="1473.0" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1473.0" y1="131.0" x2="1473.0" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="69.0" x2="1516.8333333333335" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="69.0" x2="1534.1666666666667" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="69.0" x2="1566.5" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1566.5" y1="100.0" x2="1566.5" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1566.5" y1="131.0" x2="1510.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1566.5" y1="131.0" x2="1536.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1566.5" y1="131.0" x2="1579.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1579.5" y1="162.0" x2="1579.5" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1579.5" y1="193.0" x2="1579.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1566.5" y1="131.0" x2="1622.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="69.0" x2="1909.75" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1909.75" y1="100.0" x2="1909.75" y2="124.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1909.75" y1="131.0" x2="1650.0" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1909.75" y1="131.0" x2="1677.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1909.75" y1="131.0" x2="1715.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1715.5" y1="162.0" x2="1683.5" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1683.5" y1="193.0" x2="1683.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1715.5" y1="162.0" x2="1715.5" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1715.5" y1="162.0" x2="1747.5" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1747.5" y1="193.0" x2="1747.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1909.75" y1="131.0" x2="1771.5833333333335" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1909.75" y1="131.0" x2="1806.1666666666667" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1909.75" y1="131.0" x2="1855.75" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1855.75" y1="162.0" x2="1855.75" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1855.75" y1="193.0" x2="1772.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1855.75" y1="193.0" x2="1796.0" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1855.75" y1="193.0" x2="1824.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1855.75" y1="193.0" x2="1853.0" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1855.75" y1="193.0" x2="1896.0" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1896.0" y1="224.0" x2="1896.0" y2="248.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1896.0" y1="255.0" x2="1896.0" y2="279.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1855.75" y1="193.0" x2="1939.0" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1909.75" y1="131.0" x2="2000.75" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2000.75" y1="162.0" x2="2000.75" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2000.75" y1="193.0" x2="1965.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2000.75" y1="193.0" x2="1996.5" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2000.75" y1="193.0" x2="2036.0" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2036.0" y1="224.0" x2="2014.5" y2="248.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2036.0" y1="224.0" x2="2041.0" y2="248.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2036.0" y1="224.0" x2="2057.5" y2="248.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1909.75" y1="131.0" x2="2138.0" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2138.0" y1="162.0" x2="2138.0" y2="186.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2138.0" y1="193.0" x2="2082.0" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2138.0" y1="193.0" x2="2108.0" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2138.0" y1="193.0" x2="2151.0" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2151.0" y1="224.0" x2="2151.0" y2="248.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2151.0" y1="255.0" x2="2151.0" y2="279.0" style="stroke:black; stroke-width:1px;" />
+<line x1="2138.0" y1="193.0" x2="2194.0" y2="217.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1909.75" y1="131.0" x2="2169.5" y2="155.0" style="stroke:black; stroke-width:1px;" />
+<line x1="1623.875" y1="69.0" x2="1941.25" y2="93.0" style="stroke:black; stroke-width:1px;" />
+<rect x="1002.75" y="93.0" width="17.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1004" y="102" style="font-family:sans-serif;font-size:10px;">
+&lt;-
+</text>
+<rect x="1084.75" y="124.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1086" y="133" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="1264.75" y="155.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1266" y="164" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="1456.0" y="124.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1458" y="133" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="1800.6666666666667" y="155.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1802" y="164" style="font-family:sans-serif;font-size:10px;">
+{
+</text>
+<rect x="573.25" y="186.0" width="48.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="575" y="195" style="font-family:sans-serif;font-size:10px;">
+operate
+</text>
+<rect x="687.5" y="93.0" width="17.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="689" y="102" style="font-family:sans-serif;font-size:10px;">
+&lt;-
+</text>
+<rect x="127.0" y="93.0" width="64.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="129" y="102" style="font-family:sans-serif;font-size:10px;">
+parameter
+</text>
+<rect x="1140.75" y="124.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1142" y="133" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="1981.75" y="155.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1983" y="164" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="361.25" y="93.0" width="17.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="363" y="102" style="font-family:sans-serif;font-size:10px;">
+&lt;-
+</text>
+<rect x="1512.8333333333335" y="93.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1514" y="102" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="1217.75" y="217.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1219" y="226" style="font-family:sans-serif;font-size:10px;">
+x
+</text>
+<rect x="240.75" y="124.0" width="37.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="242" y="133" style="font-family:sans-serif;font-size:10px;">
+result
+</text>
+<rect x="1426.0" y="93.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1428" y="102" style="font-family:sans-serif;font-size:10px;">
+(
+</text>
+<rect x="872.25" y="0.0" width="31.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="874" y="9" style="font-family:sans-serif;font-size:10px;">
+start
+</text>
+<rect x="570.0" y="124.0" width="37.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="572" y="133" style="font-family:sans-serif;font-size:10px;">
+result
+</text>
+<rect x="1211.5" y="124.0" width="37.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1213" y="133" style="font-family:sans-serif;font-size:10px;">
+result
+</text>
+<rect x="1096.75" y="155.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1098" y="164" style="font-family:sans-serif;font-size:10px;">
+x
+</text>
+<rect x="837.5" y="155.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="839" y="164" style="font-family:sans-serif;font-size:10px;">
+y
+</text>
+<rect x="593.25" y="217.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="595" y="226" style="font-family:sans-serif;font-size:10px;">
+-
+</text>
+<rect x="244.0" y="186.0" width="48.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="246" y="195" style="font-family:sans-serif;font-size:10px;">
+operate
+</text>
+<rect x="1633.5" y="155.0" width="33.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1635" y="164" style="font-family:sans-serif;font-size:10px;">
+while
+</text>
+<rect x="1807.0" y="217.0" width="35.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1809" y="226" style="font-family:sans-serif;font-size:10px;">
+sleep
+</text>
+<rect x="1730.5" y="186.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1732" y="195" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="443.25" y="124.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="445" y="133" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="1547.5" y="93.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1549" y="102" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="1688.5" y="155.0" width="54.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1690" y="164" style="font-family:sans-serif;font-size:10px;">
+compare
+</text>
+<rect x="810.5" y="124.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="812" y="133" style="font-family:sans-serif;font-size:10px;">
+,
+</text>
+<rect x="711.5" y="93.0" width="49.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="713" y="102" style="font-family:sans-serif;font-size:10px;">
+function
+</text>
+<rect x="1564.0" y="217.0" width="31.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1566" y="226" style="font-family:sans-serif;font-size:10px;">
+from
+</text>
+<rect x="1742.0" y="217.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1744" y="226" style="font-family:sans-serif;font-size:10px;">
+0
+</text>
+<rect x="1864.0" y="217.0" width="64.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1866" y="226" style="font-family:sans-serif;font-size:10px;">
+parameter
+</text>
+<rect x="114.0" y="124.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="116" y="133" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="32.0" y="93.0" width="17.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="34" y="102" style="font-family:sans-serif;font-size:10px;">
+&lt;-
+</text>
+<rect x="285.25" y="93.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="287" y="102" style="font-family:sans-serif;font-size:10px;">
+}
+</text>
+<rect x="632.5" y="93.0" width="48.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="634" y="102" style="font-family:sans-serif;font-size:10px;">
+multiply
+</text>
+<rect x="1988.0" y="217.0" width="17.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1990" y="226" style="font-family:sans-serif;font-size:10px;">
+&lt;-
+</text>
+<rect x="528.25" y="155.0" width="43.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="530" y="164" style="font-family:sans-serif;font-size:10px;">
+return(
+</text>
+<rect x="261.5" y="217.0" width="13.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="263" y="226" style="font-family:sans-serif;font-size:10px;">
++
+</text>
+<rect x="219.16666666666663" y="93.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="221" y="102" style="font-family:sans-serif;font-size:10px;">
+{
+</text>
+<rect x="787.375" y="31.0" width="28.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="789" y="40" style="font-family:sans-serif;font-size:10px;">
+task
+</text>
+<rect x="1189.9166666666665" y="93.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1191" y="102" style="font-family:sans-serif;font-size:10px;">
+{
+</text>
+<rect x="126.0" y="155.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="128" y="164" style="font-family:sans-serif;font-size:10px;">
+x
+</text>
+<rect x="1528.6666666666667" y="93.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1530" y="102" style="font-family:sans-serif;font-size:10px;">
+{
+</text>
+<rect x="1094.875" y="62.0" width="49.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1096" y="71" style="font-family:sans-serif;font-size:10px;">
+function
+</text>
+<rect x="874.6666666666666" y="93.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="876" y="102" style="font-family:sans-serif;font-size:10px;">
+{
+</text>
+<rect x="1879.0" y="248.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1881" y="257" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="1618.5" y="155.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1620" y="164" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="499.25" y="124.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="501" y="133" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="1211.0" y="93.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1213" y="102" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="854.5" y="155.0" width="43.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="856" y="164" style="font-family:sans-serif;font-size:10px;">
+return(
+</text>
+<rect x="895.75" y="93.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="897" y="102" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="155.0" y="124.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="157" y="133" style="font-family:sans-serif;font-size:10px;">
+,
+</text>
+<rect x="1214.75" y="186.0" width="48.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1216" y="195" style="font-family:sans-serif;font-size:10px;">
+operate
+</text>
+<rect x="2037.0" y="248.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2039" y="257" style="font-family:sans-serif;font-size:10px;">
+-
+</text>
+<rect x="1457.5" y="155.0" width="31.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1459" y="164" style="font-family:sans-serif;font-size:10px;">
+from
+</text>
+<rect x="460.375" y="31.0" width="28.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="462" y="40" style="font-family:sans-serif;font-size:10px;">
+task
+</text>
+<rect x="782.5" y="93.0" width="64.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="784" y="102" style="font-family:sans-serif;font-size:10px;">
+parameter
+</text>
+<rect x="1609.875" y="31.0" width="28.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1611" y="40" style="font-family:sans-serif;font-size:10px;">
+task
+</text>
+<rect x="1274.0" y="93.0" width="65.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1276" y="102" style="font-family:sans-serif;font-size:10px;">
+countdown
+</text>
+<rect x="1836.75" y="155.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1838" y="164" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="578.25" y="155.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="580" y="164" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="1169.75" y="155.0" width="43.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1171" y="164" style="font-family:sans-serif;font-size:10px;">
+return(
+</text>
+<rect x="949.5" y="155.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="951" y="164" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="1441.0" y="93.0" width="64.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1443" y="102" style="font-family:sans-serif;font-size:10px;">
+parameter
+</text>
+<rect x="1547.5" y="155.0" width="64.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1549" y="164" style="font-family:sans-serif;font-size:10px;">
+parameter
+</text>
+<rect x="385.25" y="93.0" width="49.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="387" y="102" style="font-family:sans-serif;font-size:10px;">
+function
+</text>
+<rect x="767.5" y="93.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="769" y="102" style="font-family:sans-serif;font-size:10px;">
+(
+</text>
+<rect x="1026.75" y="93.0" width="49.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1028" y="102" style="font-family:sans-serif;font-size:10px;">
+function
+</text>
+<rect x="449.875" y="62.0" width="49.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="451" y="71" style="font-family:sans-serif;font-size:10px;">
+function
+</text>
+<rect x="1495.5" y="155.0" width="30.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1497" y="164" style="font-family:sans-serif;font-size:10px;">
+print
+</text>
+<rect x="1666.5" y="186.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1668" y="195" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="2052.0" y="248.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2054" y="257" style="font-family:sans-serif;font-size:10px;">
+1
+</text>
+<rect x="2119.0" y="217.0" width="64.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2121" y="226" style="font-family:sans-serif;font-size:10px;">
+parameter
+</text>
+<rect x="249.0" y="155.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="251" y="164" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="1935.0" y="217.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1937" y="226" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="2119.0" y="155.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2121" y="164" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="2134.0" y="248.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2136" y="257" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="530.3333333333334" y="93.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="532" y="102" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="1890.5" y="279.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1892" y="288" style="font-family:sans-serif;font-size:10px;">
+1
+</text>
+<rect x="2104.0" y="217.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2106" y="226" style="font-family:sans-serif;font-size:10px;">
+(
+</text>
+<rect x="1668.0" y="217.0" width="31.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1670" y="226" style="font-family:sans-serif;font-size:10px;">
+from
+</text>
+<rect x="896.25" y="124.0" width="37.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="898" y="133" style="font-family:sans-serif;font-size:10px;">
+result
+</text>
+<rect x="303.25" y="93.0" width="51.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="305" y="102" style="font-family:sans-serif;font-size:10px;">
+subtract
+</text>
+<rect x="1370.0" y="93.0" width="49.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1372" y="102" style="font-family:sans-serif;font-size:10px;">
+function
+</text>
+<rect x="199.0" y="155.0" width="43.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="201" y="164" style="font-family:sans-serif;font-size:10px;">
+return(
+</text>
+<rect x="182.0" y="155.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="184" y="164" style="font-family:sans-serif;font-size:10px;">
+y
+</text>
+<rect x="201.08333333333337" y="93.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="203" y="102" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="614.5" y="93.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="616" y="102" style="font-family:sans-serif;font-size:10px;">
+}
+</text>
+<rect x="781.5" y="155.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="783" y="164" style="font-family:sans-serif;font-size:10px;">
+x
+</text>
+<rect x="918.5" y="217.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="920" y="226" style="font-family:sans-serif;font-size:10px;">
+*
+</text>
+<rect x="2135.5" y="279.0" width="31.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2137" y="288" style="font-family:sans-serif;font-size:10px;">
+from
+</text>
+<rect x="2190.0" y="217.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2192" y="226" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="2164.0" y="155.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2166" y="164" style="font-family:sans-serif;font-size:10px;">
+}
+</text>
+<rect x="0.0" y="93.0" width="25.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2" y="102" style="font-family:sans-serif;font-size:10px;">
+add
+</text>
+<rect x="904.5" y="155.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="906" y="164" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="244.5" y="217.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="246" y="226" style="font-family:sans-serif;font-size:10px;">
+x
+</text>
+<rect x="2067.0" y="217.0" width="30.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2069" y="226" style="font-family:sans-serif;font-size:10px;">
+print
+</text>
+<rect x="2126.5" y="186.0" width="23.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2128" y="195" style="font-family:sans-serif;font-size:10px;">
+call
+</text>
+<rect x="112.0" y="93.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="114" y="102" style="font-family:sans-serif;font-size:10px;">
+(
+</text>
+<rect x="608.25" y="217.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="610" y="226" style="font-family:sans-serif;font-size:10px;">
+y
+</text>
+<rect x="456.25" y="93.0" width="64.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="458" y="102" style="font-family:sans-serif;font-size:10px;">
+parameter
+</text>
+<rect x="1346.0" y="93.0" width="17.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1348" y="102" style="font-family:sans-serif;font-size:10px;">
+&lt;-
+</text>
+<rect x="1562.5" y="186.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1564" y="195" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="1171.8333333333335" y="93.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1173" y="102" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="1844.25" y="186.0" width="23.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1846" y="195" style="font-family:sans-serif;font-size:10px;">
+call
+</text>
+<rect x="294.0" y="155.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="296" y="164" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="1256.0" y="93.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1258" y="102" style="font-family:sans-serif;font-size:10px;">
+}
+</text>
+<rect x="935.5" y="217.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="937" y="226" style="font-family:sans-serif;font-size:10px;">
+y
+</text>
+<rect x="1532.5" y="155.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1534" y="164" style="font-family:sans-serif;font-size:10px;">
+(
+</text>
+<rect x="1849.0" y="217.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1851" y="226" style="font-family:sans-serif;font-size:10px;">
+(
+</text>
+<rect x="1950.0" y="217.0" width="31.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1952" y="226" style="font-family:sans-serif;font-size:10px;">
+from
+</text>
+<rect x="441.25" y="93.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="443" y="102" style="font-family:sans-serif;font-size:10px;">
+(
+</text>
+<rect x="511.25" y="155.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="513" y="164" style="font-family:sans-serif;font-size:10px;">
+y
+</text>
+<rect x="569.5" y="93.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="571" y="102" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="1999.0" y="248.0" width="31.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2001" y="257" style="font-family:sans-serif;font-size:10px;">
+from
+</text>
+<rect x="1760.0" y="217.0" width="25.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1762" y="226" style="font-family:sans-serif;font-size:10px;">
+Sys
+</text>
+<rect x="1152.75" y="155.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1154" y="164" style="font-family:sans-serif;font-size:10px;">
+y
+</text>
+<rect x="623.25" y="155.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="625" y="164" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="1767.5833333333335" y="155.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1769" y="164" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="137.625" y="31.0" width="28.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="139" y="40" style="font-family:sans-serif;font-size:10px;">
+task
+</text>
+<rect x="1097.75" y="93.0" width="64.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1099" y="102" style="font-family:sans-serif;font-size:10px;">
+parameter
+</text>
+<rect x="1555.0" y="124.0" width="23.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1557" y="133" style="font-family:sans-serif;font-size:10px;">
+call
+</text>
+<rect x="825.5" y="124.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="827" y="133" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="1895.75" y="124.0" width="28.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1897" y="133" style="font-family:sans-serif;font-size:10px;">
+loop
+</text>
+<rect x="1105.375" y="31.0" width="28.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1107" y="40" style="font-family:sans-serif;font-size:10px;">
+task
+</text>
+<rect x="1219.75" y="155.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1221" y="164" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="901.5" y="217.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="903" y="226" style="font-family:sans-serif;font-size:10px;">
+x
+</text>
+<rect x="1125.75" y="124.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1127" y="133" style="font-family:sans-serif;font-size:10px;">
+,
+</text>
+<rect x="1249.75" y="217.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1251" y="226" style="font-family:sans-serif;font-size:10px;">
+y
+</text>
+<rect x="1890.75" y="93.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1892" y="102" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="1965.25" y="186.0" width="71.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1967" y="195" style="font-family:sans-serif;font-size:10px;">
+assignment
+</text>
+<rect x="127.125" y="62.0" width="49.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="129" y="71" style="font-family:sans-serif;font-size:10px;">
+function
+</text>
+<rect x="455.25" y="155.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="457" y="164" style="font-family:sans-serif;font-size:10px;">
+x
+</text>
+<rect x="958.75" y="93.0" width="37.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="960" y="102" style="font-family:sans-serif;font-size:10px;">
+divide
+</text>
+<rect x="1599.375" y="62.0" width="49.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1601" y="71" style="font-family:sans-serif;font-size:10px;">
+function
+</text>
+<rect x="1935.75" y="93.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1937" y="102" style="font-family:sans-serif;font-size:10px;">
+}
+</text>
+<rect x="1792.0" y="217.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1794" y="226" style="font-family:sans-serif;font-size:10px;">
+.
+</text>
+<rect x="1082.75" y="93.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1084" y="102" style="font-family:sans-serif;font-size:10px;">
+(
+</text>
+<rect x="1234.75" y="217.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1236" y="226" style="font-family:sans-serif;font-size:10px;">
+/
+</text>
+<rect x="940.75" y="93.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="942" y="102" style="font-family:sans-serif;font-size:10px;">
+}
+</text>
+<rect x="769.5" y="124.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="771" y="133" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="170.0" y="124.0" width="34.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="172" y="133" style="font-family:sans-serif;font-size:10px;">
+value
+</text>
+<rect x="899.5" y="186.0" width="48.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="901" y="195" style="font-family:sans-serif;font-size:10px;">
+operate
+</text>
+<rect x="548.4166666666666" y="93.0" width="11.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="550" y="102" style="font-family:sans-serif;font-size:10px;">
+{
+</text>
+<rect x="576.25" y="217.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="578" y="226" style="font-family:sans-serif;font-size:10px;">
+x
+</text>
+<rect x="1707.5" y="186.0" width="16.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1709" y="195" style="font-family:sans-serif;font-size:10px;">
+!=
+</text>
+<rect x="484.25" y="124.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="486" y="133" style="font-family:sans-serif;font-size:10px;">
+,
+</text>
+<rect x="776.875" y="62.0" width="49.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="778" y="71" style="font-family:sans-serif;font-size:10px;">
+function
+</text>
+<rect x="856.5833333333334" y="93.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="858" y="102" style="font-family:sans-serif;font-size:10px;">
+)
+</text>
+<rect x="56.0" y="93.0" width="49.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="58" y="102" style="font-family:sans-serif;font-size:10px;">
+function
+</text>
+<rect x="240.25" y="93.0" width="38.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="242" y="102" style="font-family:sans-serif;font-size:10px;">
+action
+</text>
+<rect x="281.5" y="217.0" width="10.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="283" y="226" style="font-family:sans-serif;font-size:10px;">
+y
+</text>
+<rect x="1673.5" y="155.0" width="8.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="1675" y="164" style="font-family:sans-serif;font-size:10px;">
+(
+</text>
+<rect x="2012.0" y="217.0" width="48.0" height="14.0" style="fill:orange; stroke:rgb(0,0,0);" rx="1"/>
+<text x="2014" y="226" style="font-family:sans-serif;font-size:10px;">
+operate
+</text>
+</svg>
